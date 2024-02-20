@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\bin\Debug\net6.0\control job.exe
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\bin\Debug\net6.0\control job.deps.json
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\bin\Debug\net6.0\control job.runtimeconfig.json
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\bin\Debug\net6.0\control job.dll
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\bin\Debug\net6.0\control job.pdb
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.dll
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\refint\control job.dll
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.pdb
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\control job.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Рабочий стол\Geek Brain\С# examples\control job\obj\Debug\net6.0\ref\control job.dll
